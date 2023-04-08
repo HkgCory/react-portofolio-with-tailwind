@@ -285,7 +285,7 @@ export default function Home() {
                 </p>
               </div>
 
-              <div className="basis-1/4 flex-1">
+{/*<div className="basis-1/4 flex-1">
                 <a href={vtc.src}>
                   <Image
                     src={vtc}
@@ -302,7 +302,7 @@ export default function Home() {
                     Graduated in June 2019
                   </span>
                 </p>
-              </div>
+              </div>*/}
             </div>
           </div>
         </section>
